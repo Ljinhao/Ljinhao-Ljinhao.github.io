@@ -2,7 +2,7 @@
 - :memo: 目录
    - 多线程
    
-       - [第1节：异步编程CompletableFuture](/docs/md/java/异步编程使用.md)
+       - [第1节：异步编程CompletableFuture](/md/java/异步编程使用.md)
    
    - spring cloud
    
