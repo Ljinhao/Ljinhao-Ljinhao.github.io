@@ -1,6 +1,6 @@
 # 一个贼简单的所见即所得博客！ 🔥
 
->你好，我是索隆
+>你好，我是路飞
 
 ## 博客搭建
 
@@ -8,12 +8,13 @@
 
 
 ## 问题交流
+![](https://ljinhao.github.io/assets//images/docs/assets/img/2022-060703.jpg)
 
 ![](https://github.com/fuzhengwei/small-spring/blob/main/docs/assets/img/bugstack-md.png?raw=true)
 
 <br/>
 <div align="center">
-    <a href="https://github.com/fuzhengwei/CodeGuide">关注索隆！</a>
+    <a href="https://github.com/fuzhengwei/CodeGuide">关注路飞！</a>
 </div>
 <br/>  
 
